@@ -4,7 +4,7 @@ I'm a Software Engineer turned Engineering Manager, living in Atlanta, GA.
 
 **What sort of work I do?**
 
-- 👨🏿‍💻 My primary areas of focus in the past have been Site Reliability and Database Reliability Engineering disciplines.
+- 👨🏿‍💻 My primary areas of focus in the past have been Site Reliability and Database Reliability Engineering.
 - 🌱 Team building, and engineering recruitment
 - 🤠 Technical leadership & planning
 - 🤓 System scalability, architecture, and capacity management
