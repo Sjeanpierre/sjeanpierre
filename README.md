@@ -11,7 +11,7 @@ I'm a Software Engineer turned Engineering Manager, living in Atlanta, GA.
 - 👾 Back-end & Systems Engineering
 
 **What I'm currently working on**
-- Growing my Database Reliability team at [@PagerDuty](https://www.pagerduty.com/) ([We're hiring](https://jobs.lever.co/pagerduty/08ff6a9e-3471-4173-b3c0-272f917a6f27))
+- Growing my Database Reliability team at [@PagerDuty](https://www.pagerduty.com/) ([We're hiring](https://boards.greenhouse.io/pagerduty))
 - Mentoring under-represented groups in tech
 - All things Go
 - Making use of AWS services to solve problems
